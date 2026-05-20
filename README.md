@@ -1,7 +1,7 @@
 ## Hi, I'm Nandana 👋
 
 Data Analyst with an M.Sc. in Data Science and a background in Mathematics.
-I turn raw data into decisions — using SQL, Python, Power BI, and Excel.
+I turn raw data into decisions - using SQL, Python, Power BI, and Excel.
 
 ### 🛠️ Tools I work with
 `SQL` `Python` `Power BI` `Advanced Excel` `Pandas` `SQLite` `Snowflake` `Tableau`
