@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Nandana 👋
 
-<!--
-**Nandana3/Nandana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with an M.Sc. in Data Science and a background in Mathematics.
+I turn raw data into decisions — using SQL, Python, Power BI, and Excel.
 
-Here are some ideas to get you started:
+### 🛠️ Tools I work with
+`SQL` `Python` `Power BI` `Advanced Excel` `Pandas` `SQLite` `Snowflake` `Tableau`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+**[Sales Analytics Pipeline](link-to-your-repo)**
+End-to-end pipeline on 9,800+ sales records →
+SQL KPIs · Excel automation · Power BI dashboard
+
+### 📬 Let's connect
+[LinkedIn](https://linkedin.com/in/nandanamk) · nandanamk2702@gmail.com
