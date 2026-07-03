@@ -7,7 +7,7 @@ I turn raw data into decisions - using SQL, Python, Power BI, and Excel.
 `SQL` `Python` `Power BI` `Advanced Excel` `Pandas` `SQLite` `Snowflake` `Tableau`
 
 ### 📌 Featured Project
-**[Sales Analytics Pipeline](link-to-your-repo)**
+**[Sales Analytics Pipeline](https://github.com/Nandana3/Sales-Analytics-Project)**
 End-to-end pipeline on 9,800+ sales records →
 SQL KPIs · Excel automation · Power BI dashboard
 
